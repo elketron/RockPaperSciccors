@@ -1,0 +1,11 @@
+/home/odmar/hoge-school/prog_fund/module_2/schaarSteenPapier/obj/Debug/netcoreapp2.2/schaarSteenPapier.csprojAssemblyReference.cache
+/home/odmar/hoge-school/prog_fund/module_2/schaarSteenPapier/obj/Debug/netcoreapp2.2/schaarSteenPapier.csproj.CoreCompileInputs.cache
+/home/odmar/hoge-school/prog_fund/module_2/schaarSteenPapier/obj/Debug/netcoreapp2.2/schaarSteenPapier.AssemblyInfoInputs.cache
+/home/odmar/hoge-school/prog_fund/module_2/schaarSteenPapier/obj/Debug/netcoreapp2.2/schaarSteenPapier.AssemblyInfo.cs
+/home/odmar/hoge-school/prog_fund/module_2/schaarSteenPapier/bin/Debug/netcoreapp2.2/schaarSteenPapier.deps.json
+/home/odmar/hoge-school/prog_fund/module_2/schaarSteenPapier/bin/Debug/netcoreapp2.2/schaarSteenPapier.runtimeconfig.json
+/home/odmar/hoge-school/prog_fund/module_2/schaarSteenPapier/bin/Debug/netcoreapp2.2/schaarSteenPapier.runtimeconfig.dev.json
+/home/odmar/hoge-school/prog_fund/module_2/schaarSteenPapier/bin/Debug/netcoreapp2.2/schaarSteenPapier.dll
+/home/odmar/hoge-school/prog_fund/module_2/schaarSteenPapier/bin/Debug/netcoreapp2.2/schaarSteenPapier.pdb
+/home/odmar/hoge-school/prog_fund/module_2/schaarSteenPapier/obj/Debug/netcoreapp2.2/schaarSteenPapier.dll
+/home/odmar/hoge-school/prog_fund/module_2/schaarSteenPapier/obj/Debug/netcoreapp2.2/schaarSteenPapier.pdb
